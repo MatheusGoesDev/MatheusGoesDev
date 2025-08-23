@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=4000&pause=1000&color=00C896&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+eu+sou+Matheus+Goes;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Focado+em+Desenvolvimento+Full+Stack;Atualmente+aprendendo+HTML%2C+CSS+e+JavaScript;Apaixonado+por+tecnologia+e+resolução+de+problemas;Em+constante+evolução+como+desenvolvedor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=4000&pause=1000&color=00C896&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+eu+sou+Matheus+Goes!;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas.;Focado+em+Desenvolvimento+Full+Stack!;Atualmente+aprendendo+HTML%2C+CSS+e+JavaScript.)](https://git.io/typing-svg)
 
 <div>
   <a href=https://github.com/MatheusGoesDev>
