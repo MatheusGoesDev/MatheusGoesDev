@@ -4,7 +4,6 @@
   <a href=https://github.com/MatheusGoesDev>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusGoesDev&theme=tokyonight&show_icons=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGoesDev&layout=compact&theme=tokyonight">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusGoesDev&theme=tokyonight&hide_border=false">
 </div>
 
 Minhas Skills:
